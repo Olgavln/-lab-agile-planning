@@ -60,10 +60,10 @@ The project uses the Agile methodology for task management and planning:
 
 ## Project Team
 
-- Project Manager: [Olha Leontyeva]
-- Developer 1: [Team Member Sasha]
-- Developer 2: [Team Member Igor]
-- Developer 3: [Team Member Leon]
+- Project Manager: Olha Leontyeva
+- Developer 1: Team Member Sasha
+- Developer 2: Team Member Igor
+- Developer 3: Team Member Leon
 
 ## Tools Used
 
