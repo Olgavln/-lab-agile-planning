@@ -68,7 +68,7 @@ The project uses the Agile methodology for task management and planning:
 ## Tools Used
 
 - GitHub Projects with a built-in Kanban board for task planning and sprint management.
-- GitHub Issues and Milestones for breaking down and tracking tasks.
+- GitHub Issues for breaking down and tracking tasks.
 - Slack for team communication.
 - Google Docs / Notion for documentation.
 
